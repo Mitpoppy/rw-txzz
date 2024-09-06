@@ -1,0 +1,26 @@
+[
+  {
+    "version": "安卓版",
+    "title": "安卓官方版",
+    "changelog": "官方安卓版下载，需付费购买正版，价格为4.99美元（相当于35.8037元），需挂加速器才能访问谷歌商店",
+    "upload_date": "",
+    "file_size": "",
+    "download_url": "https://play.google.com/store/apps/details?id=com.corrodinggames.rts&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+  },
+  {
+    "version": "IOS版",
+    "title": "Windows官方版",
+    "changelog": "官方IOS版下载，需付费购买正版，价格为4.99美元（相当于35.8037元），无需加速器",
+    "upload_date": "",
+    "file_size": "",
+    "download_url": "https://apps.apple.com/au/app/rusted-warfare-rts/id1514329124"
+  },
+  {
+    "version": "电脑版",
+    "title": "Windows官方版",
+    "changelog": "官方电脑版下载，需付费购买正版，价格为4.99美元（相当于35.8037元），需挂加速器才能访问steam商场",
+    "upload_date": "",
+    "file_size": "",
+    "download_url": "https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/"
+  }
+]
